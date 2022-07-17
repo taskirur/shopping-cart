@@ -54,7 +54,7 @@ body{
 .card-title{
     float:left;
     margin-left: 100px;
-    padding: 20px;
+    padding: 28px;
 }
 
 h3{
@@ -73,4 +73,53 @@ h3{
     font-size: 1.8rem;
     cursor: pointer;
     transition:background 0.5s;
+    padding: 5px;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.icon:hover{
+    background-color:teal;
+    color:white;
+    border-radius: 50%;
+}
+
+.input{
+    width: 80px;
+    background-color:yellowgreen;
+    color: black;
+    padding: 10px;
+    font-size: 1.4rem;
+}
+
+.item{
+    font-item:1.6rem;
+}
+
+.clear{
+    clear: both;
+}
+
+.hr-style{
+    border: 6px solid gray;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.total{
+    text-align: center;
+    color: teal;
+}
+
+h2{
+    padding: 20px;
+}
+
+.kupon{
+    color: teal;
+    text-align: center;
 }

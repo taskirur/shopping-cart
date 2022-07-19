@@ -122,4 +122,25 @@ h2{
 .kupon{
     color: teal;
     text-align: center;
+    font-size: 1.8rem;
+}
+
+.code{
+    color:rgb(187, 25, 187);
+    text-align: center;
+    font-size: 1.4rem;
+}
+
+.kuponinput{
+    width: 40%;
+    padding: 8px;
+    margin-left: 20px;
+}
+
+.apply{
+    background-color:tomato;
+    color: white;
+    font-size: 1.2rem;
+    padding: 10px 15px;
+    margin-left: 20px;
 }
